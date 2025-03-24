@@ -1,0 +1,25 @@
+body {
+    background-color:palegreen;
+}
+
+h1 {
+    color:forestgreen;
+    margin-top: 12px;
+    margin-bottom: 12;
+}
+
+p {
+    color: forestgreen;
+    font-size: 12;
+}
+
+u {
+    color: forestgreen;
+}
+
+.banner {
+    padding: 50px;
+    text-align: center;
+    background-color:white;
+    font-size: 15px;
+}
